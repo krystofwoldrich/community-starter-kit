@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is first line of the app description. This is another sentense of the description.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- This is the first feature of the app
+- This is the second best feature
 
 ## Getting started
 
